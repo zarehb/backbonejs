@@ -1,0 +1,21 @@
+{
+  "name": "mobilejs",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.22",
+    "jquery": "~2.1.4",
+    "backbone": "~1.2.3",
+    "text": "requirejs-text#~2.0.14"
+  }
+}
